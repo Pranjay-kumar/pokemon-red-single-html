@@ -1,12 +1,8 @@
 # Pokémon Red — Kanto Recreation
 
-GitHub Pages address, after enabling Pages: https://pranjay-kumar.github.io/my-project/
+[Play in your browser](https://pranjay-kumar.github.io/my-project/)
 
-## Enable browser play
-
-Open [Settings → Pages](https://github.com/Pranjay-kumar/my-project/settings/pages). Under Build and deployment, select **Deploy from a branch**, choose **main** and **/(root)**, then click **Save**. After GitHub finishes deploying, open the Pages address above.
-
-The connected app uploaded the game but GitHub denied it permission to enable Pages automatically.
+GitHub Pages is configured to publish `main` from the repository root. Deployment status is available in the repository's [Actions tab](https://github.com/Pranjay-kumar/my-project/actions).
 
 A standalone browser recreation with a new JavaScript engine and original Game Boy graphics. The complete application is in `index.html`; it requires no ROM, installation, or external requests during play.
 
